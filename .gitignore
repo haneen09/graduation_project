@@ -1,0 +1,6 @@
+venv/
+*.mp3
+*.pt
+__pycache__/
+*.pyc
+detections_log.txt
