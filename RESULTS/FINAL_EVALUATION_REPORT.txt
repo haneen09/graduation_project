@@ -1,0 +1,32 @@
+
+======================================================================
+FINAL YOLOV8 EVALUATION REPORT
+======================================================================
+
+MODEL: YOLOv8n (Pretrained on COCO - 80 classes)
+TARGET CLASSES: 10
+TEST IMAGES: 6
+
+DETECTION METRICS:
+----------------------------------------------------------------------
+Total Detections: 53
+True Positives: 39
+False Positives: 14
+False Negatives: 4
+Precision: 73.6%
+Recall: 90.7%
+F1-Score: 81.3%
+Average Confidence: 56.6%
+
+OCR EVALUATION:
+----------------------------------------------------------------------
+Text Elements Found: 8
+Status: Functional
+
+TTS EVALUATION:
+----------------------------------------------------------------------
+Audio Outputs: 53
+Status: Functional
+
+SYSTEM STATUS: OPERATIONAL
+======================================================================

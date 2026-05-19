@@ -1,0 +1,68 @@
+BOUNDING BOX DETECTION REPORT
+======================================================================
+
+Image: outdoor1.jpg
+Output: bounding_box_results\bbox_outdoor1.jpg
+Total Detections: 14
+Classes Detected:
+  - person: 2
+  - traffic light: 3
+  - car: 8
+  - bicycle: 1
+----------------------------------------------------------------------
+
+Image: outdoor2.jpg
+Output: bounding_box_results\bbox_outdoor2.jpg
+Total Detections: 14
+Classes Detected:
+  - person: 5
+  - car: 4
+  - bicycle: 5
+----------------------------------------------------------------------
+
+Image: indoor1.jpg
+Output: bounding_box_results\bbox_indoor1.jpg
+Total Detections: 8
+Classes Detected:
+  - chair: 6
+  - couch: 1
+  - tv: 1
+----------------------------------------------------------------------
+
+Image: indoor2.jpg
+Output: bounding_box_results\bbox_indoor2.jpg
+Total Detections: 7
+Classes Detected:
+  - couch: 1
+  - tv: 1
+  - chair: 4
+  - dining table: 1
+----------------------------------------------------------------------
+
+Image: ocr1.png
+Output: bounding_box_results\bbox_ocr1.png
+Total Detections: 0
+Classes Detected:
+----------------------------------------------------------------------
+
+Image: ocr2.png
+Output: bounding_box_results\bbox_ocr2.png
+Total Detections: 0
+Classes Detected:
+----------------------------------------------------------------------
+
+
+OVERALL STATISTICS
+======================================================================
+Total Images Processed: 6
+Total Detections: 43
+
+Detections Per Class:
+  - bicycle: 6
+  - car: 12
+  - chair: 10
+  - couch: 2
+  - dining table: 1
+  - person: 7
+  - traffic light: 3
+  - tv: 2

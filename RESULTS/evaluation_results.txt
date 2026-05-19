@@ -1,0 +1,116 @@
+
+Image: outdoor1.jpg
+Processing Time: 0.70s
+Distance (cm): 107.9
+Obstacle Detected: False
+
+Object Detection Results:
+  Total Objects: 14
+  Average Detection Confidence: 56.9%
+  Min Confidence: 26.8%
+  Max Confidence: 87.9%
+  Detected Objects: person, traffic light, person, car, traffic light, car, bicycle, traffic light, car, car, car, car, car, car
+
+OCR Results:
+  Total Text Found: 0
+  Detected Text: 
+------------------------------------------------------------
+
+Image: outdoor2.jpg
+Processing Time: 1.04s
+Distance (cm): 80.9
+Obstacle Detected: False
+
+Object Detection Results:
+  Total Objects: 14
+  Average Detection Confidence: 62.0%
+  Min Confidence: 28.3%
+  Max Confidence: 90.7%
+  Detected Objects: person, person, car, person, bicycle, person, car, person, bicycle, bicycle, car, bicycle, bicycle, car
+
+OCR Results:
+  Total Text Found: 0
+  Detected Text: 
+------------------------------------------------------------
+
+Image: indoor1.jpg
+Processing Time: 2.99s
+Distance (cm): 136.9
+Obstacle Detected: False
+
+Object Detection Results:
+  Total Objects: 8
+  Average Detection Confidence: 48.0%
+  Min Confidence: 30.0%
+  Max Confidence: 77.1%
+  Detected Objects: chair, couch, chair, chair, tv, chair, chair, chair
+
+OCR Results:
+  Total Text Found: 0
+  Detected Text: 
+------------------------------------------------------------
+
+Image: indoor2.jpg
+Processing Time: 1.16s
+Distance (cm): 182.0
+Obstacle Detected: False
+
+Object Detection Results:
+  Total Objects: 7
+  Average Detection Confidence: 57.1%
+  Min Confidence: 25.6%
+  Max Confidence: 88.9%
+  Detected Objects: couch, tv, chair, chair, chair, dining table, chair
+
+OCR Results:
+  Total Text Found: 0
+  Detected Text: 
+------------------------------------------------------------
+
+OCR Image: ocr1.png
+Processing Time: 0.47s
+Distance (cm): 86.3
+Obstacle Detected: False
+
+OCR Results:
+  Total Text Found: 2
+  Average OCR Confidence: 99.9%
+  Min OCR Confidence: 99.8%
+  Max OCR Confidence: 100.0%
+  Detected Text: NO, ENTRY
+------------------------------------------------------------
+
+OCR Image: ocr2.png
+Processing Time: 0.56s
+Distance (cm): 144.5
+Obstacle Detected: False
+
+OCR Results:
+  Total Text Found: 3
+  Average OCR Confidence: 82.0%
+  Min OCR Confidence: 69.6%
+  Max OCR Confidence: 100.0%
+  Detected Text: Noisy image, to test, Tesseract OCR
+------------------------------------------------------------
+
+
+============================================================
+OVERALL EVALUATION METRICS
+============================================================
+Total Images Processed: 6
+Total Objects Detected: 43
+Average Detection Confidence: 56.9%
+Total Text Found: 5
+Average OCR Confidence: 89.1%
+Obstacle Detections: 0
+Average Processing Time: 1.15s
+
+Per-Class Detection Accuracy:
+  person: 7 detections, 89.9% avg confidence
+  traffic light: 3 detections, 82.3% avg confidence
+  car: 12 detections, 80.8% avg confidence
+  bicycle: 6 detections, 69.5% avg confidence
+  chair: 10 detections, 76.8% avg confidence
+  couch: 2 detections, 76.1% avg confidence
+  tv: 2 detections, 56.8% avg confidence
+  dining table: 1 detections, 26.3% avg confidence

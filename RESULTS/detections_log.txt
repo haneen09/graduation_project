@@ -1,0 +1,19 @@
+[2026-05-19 22:58:07] bed in front of you
+[2026-05-19 22:58:14] bed in front of you, bed on your right
+[2026-05-19 22:58:40] chair in front of you
+[2026-05-19 22:58:45] chair on your right
+[2026-05-19 22:58:58] couch in front of you
+[2026-05-19 22:59:05] bed in front of you
+[2026-05-19 22:59:12] couch in front of you
+[2026-05-19 22:59:25] couch on your right
+[2026-05-19 22:59:38] couch in front of you
+[2026-05-19 22:59:45] bed on your left
+[2026-05-19 23:00:25] couch in front of you
+[2026-05-19 23:00:51] couch on your left, couch in front of you
+[2026-05-19 23:01:27] couch in front of you
+[2026-05-19 23:01:37] couch in front of you, chair in front of you
+[2026-05-19 23:01:44] chair on your right, chair in front of you
+[2026-05-19 23:01:50] dining table in front of you, chair on your right, chair in front of you, chair on your left
+[2026-05-19 23:43:00] I see car, bus, traffic light
+[2026-05-19 23:49:54] I see traffic light in front of you, traffic light on your left, bus on your left, car on your left, traffic light on your right, car in front of you, car on your right
+[2026-05-19 23:56:45] Text detected: 00 autnorised vuhicles Bus Gate enforcement NOW STARTED

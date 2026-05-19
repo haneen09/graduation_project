@@ -1,0 +1,32 @@
+
+Image: outdoor1.jpg
+Detected Objects: person, traffic light, person, car, traffic light, car, bicycle, traffic light, car, car, car, car, car, car
+Detected Text: 
+Summary: I see person, traffic light, bicycle, car
+------------------------------------------------------------
+
+Image: outdoor2.jpg
+Detected Objects: person, person, car, person, bicycle, person, car, person, bicycle, bicycle, car, bicycle, bicycle, car
+Detected Text: 
+Summary: I see person, bicycle, car
+------------------------------------------------------------
+
+Image: indoor1.jpg
+Detected Objects: chair, couch, chair, chair, tv, chair, chair, chair
+Detected Text: 
+Summary: I see tv, chair, couch
+------------------------------------------------------------
+
+Image: indoor2.jpg
+Detected Objects: couch, tv, chair, chair, chair, dining table, chair
+Detected Text: 
+Summary: I see tv, chair, couch, dining table
+------------------------------------------------------------
+
+OCR Image: ocr1.png
+Text Detected: NO ENTRY
+------------------------------------------------------------
+
+OCR Image: ocr2.png
+Text Detected: Noisy image to test Tesseract OCR
+------------------------------------------------------------

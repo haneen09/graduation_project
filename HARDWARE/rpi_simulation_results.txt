@@ -1,0 +1,44 @@
+
+Image: outdoor1.jpg
+Distance (cm): 114.2
+Obstacle Detected: False
+Detected Objects: person, traffic light, person, car, traffic light, car, bicycle, traffic light, car, car, car, car, car, car
+Detected Text: 
+Summary: I see traffic light, person, bicycle, car
+------------------------------------------------------------
+
+Image: outdoor2.jpg
+Distance (cm): 157.7
+Obstacle Detected: False
+Detected Objects: person, person, car, person, bicycle, person, car, person, bicycle, bicycle, car, bicycle, bicycle, car
+Detected Text: 
+Summary: I see person, bicycle, car
+------------------------------------------------------------
+
+Image: indoor1.jpg
+Distance (cm): 44.9
+Obstacle Detected: False
+Detected Objects: chair, couch, chair, chair, tv, chair, chair, chair
+Detected Text: 
+Summary: I see couch, chair, tv
+------------------------------------------------------------
+
+Image: indoor2.jpg
+Distance (cm): 176.5
+Obstacle Detected: False
+Detected Objects: couch, tv, chair, chair, chair, dining table, chair
+Detected Text: 
+Summary: I see couch, dining table, chair, tv
+------------------------------------------------------------
+
+OCR Image: ocr1.png
+Distance (cm): 172.7
+Obstacle Detected: False
+Text Detected: NO ENTRY
+------------------------------------------------------------
+
+OCR Image: ocr2.png
+Distance (cm): 150.0
+Obstacle Detected: False
+Text Detected: Noisy image to test Tesseract OCR
+------------------------------------------------------------
